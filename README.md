@@ -1,4 +1,4 @@
-# Bem-Vindo ao repositório do projeto Trybewarts Wizarding School! 🧙
+# Bem-Vindo ao repositório do projeto Gerador de Senhas! 🔐
 
 <summary><strong>🧑‍💻 O que foi desenvolvido no projeto</strong></summary><br />
 
