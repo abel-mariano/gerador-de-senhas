@@ -11,7 +11,7 @@ In this project done as an exercise at Trybe, an application was created that is
 <details>
 
 <div align="center">
-<img src="" width="640px"/>
+<img src="https://user-images.githubusercontent.com/120792207/229372613-bebe8c8b-8be3-4e21-993e-80758b1ea32c.gif" width="640px"/>
 </div>
 
 </details>
