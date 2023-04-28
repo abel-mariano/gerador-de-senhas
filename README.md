@@ -28,7 +28,7 @@ In this project done as an exercise at Trybe, an application was created that is
 
 ```bash
 # Clone the repository
-$ git clone git@github.com:abel-mariano/casa-de-cambio.git
+$ git clone git@github.com:abel-mariano/gerador-de-senhas.git
 ```
 
 ```bash
