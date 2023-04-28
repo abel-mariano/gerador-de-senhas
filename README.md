@@ -28,12 +28,22 @@ In this project done as an exercise at Trybe, an application was created that is
 
 ```bash
 # Clone the repository
-git clone git@github.com:abel-mariano/gerador-de-senhas.git
+$ git clone git@github.com:abel-mariano/casa-de-cambio.git
+```
 
-# Run `npm install` to install dependencies
+```bash
+# Enter directory
+$ cd casa-de-cambio
+```
 
-# Run `npm start` to run the application on a local server
+```bash
+# Install the dependencies
+$ npm install or npm i
+```
 
+```bash
+# Start application on local server
+$ npm start
 ```
 
 ## :mortar_board: Author
