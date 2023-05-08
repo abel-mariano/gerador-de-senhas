@@ -33,7 +33,7 @@ $ git clone git@github.com:abel-mariano/gerador-de-senhas.git
 
 ```bash
 # Enter directory
-$ cd casa-de-cambio
+$ cd gerador-de-senhas
 ```
 
 ```bash
@@ -43,7 +43,7 @@ $ npm install or npm i
 
 ```bash
 # Start application on local server
-$ npm start
+$ npm run dev
 ```
 
 ## :mortar_board: Author
